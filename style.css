@@ -1,7 +1,10 @@
-body{background: lightgreen}
+body{background: lightgreen;
+}
 h1{color:darkblue;
 font-family:coursive;
-font-size:100%;}
+font-size:100%;
+text-align: center;}
 p{color:black;
 font-family:courier;
-font-style:100%;}
+font-style:100%;
+text-align: left;}
